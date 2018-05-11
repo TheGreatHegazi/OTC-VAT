@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OTCVAT</string>
+    <string-array name="Questions">
+        <item>Question no 1</item>
+        <item>Question no 2</item>
+        <item>Question no 3</item>
+        <item>Question no 4</item>
+        <item>Question no 5</item>
+    </string-array>
+    <string name="ProceedButton">Proceed</string>
+
+</resources>
